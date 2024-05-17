@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-
+## Name:Vedagiri Indu Sree
+## Reg no:212223230236
 ## Aim: 
 To perform a study on Client Server Chat Applications
 ## Introduction:
